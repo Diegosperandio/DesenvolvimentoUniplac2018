@@ -1,0 +1,44 @@
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Testes\bin\Debug\LojaDeRoupas.Testes.dll.config
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Testes\bin\Debug\LojaDeRoupas.Testes.dll
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Testes\bin\Debug\LojaDeRoupas.Testes.pdb
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Testes\bin\Debug\Castle.Core.dll
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Testes\bin\Debug\EntityFramework.dll
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Testes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Testes\bin\Debug\LojaDeCamisetas.Aplicacao.dll
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Testes\bin\Debug\LojaDeCamisetas.Dominio.dll
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Testes\bin\Debug\LojaDeRoupas.Infraestrutura.dll
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Testes\bin\Debug\Moq.dll
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Testes\bin\Debug\LojaDeCamisetas.Aplicacao.pdb
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Testes\bin\Debug\LojaDeCamisetas.Dominio.pdb
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Testes\bin\Debug\LojaDeRoupas.Infraestrutura.pdb
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Testes\bin\Debug\LojaDeRoupas.Infraestrutura.dll.config
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Testes\bin\Debug\Castle.Core.xml
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Testes\bin\Debug\EntityFramework.xml
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Testes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Testes\bin\Debug\Moq.xml
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Testes\obj\Debug\LojaDeRoupas.Testes.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Testes\obj\Debug\LojaDeRoupas.Testes.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Testes\obj\Debug\LojaDeRoupas.Testes.csproj.CopyComplete
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Testes\obj\Debug\LojaDeRoupas.Testes.dll
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Testes\obj\Debug\LojaDeRoupas.Testes.pdb
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Testes\obj\Debug\LojaDeRoupas.Testes.csprojResolveAssemblyReference.cache
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Testes\obj\Debug\LojaDeRoupas.Testes.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Testes\bin\Debug\LojaDeRoupas.Testes.dll.config
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Testes\bin\Debug\LojaDeRoupas.Testes.dll
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Testes\bin\Debug\LojaDeRoupas.Testes.pdb
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Testes\bin\Debug\Castle.Core.dll
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Testes\bin\Debug\EntityFramework.dll
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Testes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Testes\bin\Debug\LojaDeCamisetas.Dominio.dll
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Testes\bin\Debug\LojaDeRoupas.Infraestrutura.dll
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Testes\bin\Debug\Moq.dll
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Testes\bin\Debug\LojaDeCamisetas.Dominio.pdb
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Testes\bin\Debug\LojaDeRoupas.Infraestrutura.pdb
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Testes\bin\Debug\LojaDeRoupas.Infraestrutura.dll.config
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Testes\bin\Debug\Castle.Core.xml
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Testes\bin\Debug\EntityFramework.xml
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Testes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Testes\bin\Debug\Moq.xml
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Testes\obj\Debug\LojaDeRoupas.Testes.csproj.CopyComplete
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Testes\obj\Debug\LojaDeRoupas.Testes.dll
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Testes\obj\Debug\LojaDeRoupas.Testes.pdb

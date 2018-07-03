@@ -1,0 +1,28 @@
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Infraestrutura\bin\Debug\LojaDeRoupas.Infraestrutura.dll.config
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Infraestrutura\bin\Debug\LojaDeRoupas.Infraestrutura.dll
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Infraestrutura\bin\Debug\LojaDeRoupas.Infraestrutura.pdb
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Infraestrutura\bin\Debug\EntityFramework.dll
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Infraestrutura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Infraestrutura\bin\Debug\LojaDeCamisetas.Dominio.dll
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Infraestrutura\bin\Debug\LojaDeCamisetas.Dominio.pdb
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Infraestrutura\bin\Debug\EntityFramework.xml
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Infraestrutura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Infraestrutura\obj\Debug\LojaDeRoupas.Infraestrutura.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Infraestrutura\obj\Debug\LojaDeRoupas.Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Infraestrutura\obj\Debug\LojaDeRoupas.Infraestrutura.csproj.CopyComplete
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Infraestrutura\obj\Debug\LojaDeRoupas.Infraestrutura.dll
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeRoupas.Infraestrutura\obj\Debug\LojaDeRoupas.Infraestrutura.pdb
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Infraestrutura\bin\Debug\LojaDeRoupas.Infraestrutura.dll.config
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Infraestrutura\bin\Debug\LojaDeRoupas.Infraestrutura.dll
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Infraestrutura\bin\Debug\LojaDeRoupas.Infraestrutura.pdb
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Infraestrutura\bin\Debug\EntityFramework.dll
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Infraestrutura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Infraestrutura\bin\Debug\LojaDeCamisetas.Dominio.dll
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Infraestrutura\bin\Debug\LojaDeCamisetas.Dominio.pdb
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Infraestrutura\bin\Debug\EntityFramework.xml
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Infraestrutura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Infraestrutura\obj\Debug\LojaDeRoupas.Infraestrutura.csprojResolveAssemblyReference.cache
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Infraestrutura\obj\Debug\LojaDeRoupas.Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Infraestrutura\obj\Debug\LojaDeRoupas.Infraestrutura.csproj.CopyComplete
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Infraestrutura\obj\Debug\LojaDeRoupas.Infraestrutura.dll
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeRoupas.Infraestrutura\obj\Debug\LojaDeRoupas.Infraestrutura.pdb

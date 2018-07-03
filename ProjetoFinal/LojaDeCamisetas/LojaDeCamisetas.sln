@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Camada de Apresentação", "1. Camada de Apresentação", "{E4D95E3F-A4F1-4566-8266-B791EAB002B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Camada de Aplicação", "2. Camada de Aplicação", "{086FB14C-7AB0-4D39-BF24-722C19DE4FE7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Camada de Domínio", "3. Camada de Domínio", "{4F80C1FD-C13A-4F6E-9795-7A2816394875}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Infraestrutura", "4. Infraestrutura", "{65ABE56B-0B31-4F38-87E9-191D35A691FB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Testes", "5. Testes", "{E9986502-0493-4D60-ADB1-5CCCBA3B4CA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaDeCamisetas.Dominio", "LojaDeCamisetas.Dominio\LojaDeCamisetas.Dominio.csproj", "{269A2108-EDCD-42A7-88A3-075EA6194AEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaDeRoupas.Infraestrutura", "LojaDeRoupas.Infraestrutura\LojaDeRoupas.Infraestrutura.csproj", "{B012455C-EA3B-4C4A-9867-327BCBB3071C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaDeRoupas.Testes", "LojaDeRoupas.Testes\LojaDeRoupas.Testes.csproj", "{BBE21676-7A7F-4C60-8EE8-B8D70B77EB15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LojaDeCamisatas.ApresentaçãoWeb", "LojaDeCamisatas.ApresentaçãoWeb\LojaDeCamisatas.ApresentaçãoWeb.csproj", "{91932738-4BD1-49C9-B47A-AEFB97E3B5A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{269A2108-EDCD-42A7-88A3-075EA6194AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269A2108-EDCD-42A7-88A3-075EA6194AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269A2108-EDCD-42A7-88A3-075EA6194AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269A2108-EDCD-42A7-88A3-075EA6194AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B012455C-EA3B-4C4A-9867-327BCBB3071C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B012455C-EA3B-4C4A-9867-327BCBB3071C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B012455C-EA3B-4C4A-9867-327BCBB3071C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B012455C-EA3B-4C4A-9867-327BCBB3071C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBE21676-7A7F-4C60-8EE8-B8D70B77EB15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE21676-7A7F-4C60-8EE8-B8D70B77EB15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE21676-7A7F-4C60-8EE8-B8D70B77EB15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE21676-7A7F-4C60-8EE8-B8D70B77EB15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91932738-4BD1-49C9-B47A-AEFB97E3B5A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91932738-4BD1-49C9-B47A-AEFB97E3B5A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91932738-4BD1-49C9-B47A-AEFB97E3B5A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91932738-4BD1-49C9-B47A-AEFB97E3B5A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{269A2108-EDCD-42A7-88A3-075EA6194AEA} = {4F80C1FD-C13A-4F6E-9795-7A2816394875}
+		{B012455C-EA3B-4C4A-9867-327BCBB3071C} = {65ABE56B-0B31-4F38-87E9-191D35A691FB}
+		{BBE21676-7A7F-4C60-8EE8-B8D70B77EB15} = {E9986502-0493-4D60-ADB1-5CCCBA3B4CA9}
+		{91932738-4BD1-49C9-B47A-AEFB97E3B5A4} = {E4D95E3F-A4F1-4566-8266-B791EAB002B4}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93C3F237-F26A-4B48-B1AE-4C320019C8A7}
+	EndGlobalSection
+EndGlobal

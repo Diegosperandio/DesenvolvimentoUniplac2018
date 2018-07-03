@@ -1,0 +1,11 @@
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeCamisetas.Dominio\bin\Debug\LojaDeCamisetas.Dominio.dll
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeCamisetas.Dominio\bin\Debug\LojaDeCamisetas.Dominio.pdb
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeCamisetas.Dominio\obj\Debug\LojaDeCamisetas.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeCamisetas.Dominio\obj\Debug\LojaDeCamisetas.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeCamisetas.Dominio\obj\Debug\LojaDeCamisetas.Dominio.dll
+C:\Users\Diego\Desktop\LojaDeCamisetas-master (1)\LojaDeCamisetas-master\LojaDeCamisetas.Dominio\obj\Debug\LojaDeCamisetas.Dominio.pdb
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeCamisetas.Dominio\bin\Debug\LojaDeCamisetas.Dominio.dll
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeCamisetas.Dominio\bin\Debug\LojaDeCamisetas.Dominio.pdb
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeCamisetas.Dominio\obj\Debug\LojaDeCamisetas.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeCamisetas.Dominio\obj\Debug\LojaDeCamisetas.Dominio.dll
+C:\Users\Diego\source\repos\LojaDeCamisetas\LojaDeCamisetas.Dominio\obj\Debug\LojaDeCamisetas.Dominio.pdb
